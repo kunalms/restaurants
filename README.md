@@ -11,7 +11,9 @@ this will start the application on port 80 on your machine.
 Navigate to Navigate to [localhost](http://localhost) and view the application
 
 ---
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+
+## Github pages
+The [restaurants app](https://github.com/kunalms/restaurants) has been hosted publicly using github pages on [kunalms.github.io/restaurants](https://kunalms.github.io/restaurants/).
 
 ## Development server
 
