@@ -1,5 +1,14 @@
 # Restaraunts
 
+## Docker Image
+run the following commands on your machine
+
+`docker pull kunalms/restaurants-app:v1`
+`docker run --rm -d -p 80:80 restaurants-app:v1`
+
+this will start the application on port 80 on your machine.
+Navigate to Navigate to [localhost](http://localhost) and view the application
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
